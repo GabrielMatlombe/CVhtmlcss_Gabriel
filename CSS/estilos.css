@@ -1,0 +1,76 @@
+body {
+	background-color: darkgray;
+}
+
+
+.folha {
+	width: 800px;
+	height: 1000px;
+	background-color: #fff;
+	margin: auto;
+	box-shadow: 6px 6px 8px #000;
+
+}
+
+.cabecalho {
+	width: 800px;
+	height: 150px;
+	background-color: #3065AC;
+}
+
+.pcabecalho1 {
+	font-size: 30px;
+	color: #fff;
+	text-align: left;
+}
+
+.pcabecalho2 {
+	color: #fff;
+	text-align: left;	
+}
+
+.alaleft {
+	width: 320px;
+	height: 850px;
+	
+	border-right-color: #000;
+	float: left;
+	border: solid 1px #000;
+}
+
+.alaright {
+	width: 476px;
+	height: 850px;
+	
+	float: right;
+	border: solid 1px #000;
+}
+
+h1 {
+	font-size: 20px;
+	padding: 25px 0px 0px 25px;
+	color: #3065AC;
+	
+}
+
+
+
+.palaleft {
+	font-size: 14px;
+	padding: 0px 0px 0px 25px;
+	
+}
+
+.hrleft {
+	width: 250px;
+}
+
+.hrright {
+	width: 410px;
+}
+
+.palaright {
+	font-size: 14px;
+	padding: 0px 20px 0px 25px;
+	text-align: justify;
+}
